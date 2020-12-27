@@ -1,6 +1,6 @@
-<h4 align="center"> 
+<h1 align="center"> 
 	📌 Builder TCC 🚀demonstração de UI... 📌
-</h4>
+</h1>
 
 
 ## 💻 Sobre o projeto
@@ -78,12 +78,12 @@ $ cd builder-tcc-demo
 
 # Instale as dependências
 $ npm install 
-OU
+# OU
 $ yarn install
 
 # Execute a aplicação em modo de desenvolvimento
 $ npm run electron:serve
-OU
+# OU
 $ yarn electron:serve
 
 ```
