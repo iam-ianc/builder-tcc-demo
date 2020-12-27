@@ -48,6 +48,11 @@ Os usuários terão acesso a dashboard onde terão as seguinte opções:
 | Apresenta um modal para carregamento de um arquivo com qualquer extensão de texto 	|
 |       <img alt="Upload" title="#Upload" src="./images_git/dashboard-upload.png" width="700px"/>       |
 
+|                                      **Editar Perfil / Alterar Sessão:**                                      |
+|:---------------------------------------------------------------------------------:	|
+| A tela de **Editar Perfil** contém as informações cadastradas do usuário logado no sistema. Ao **Alterar Sessão** o usuário é desconectado da sessão atual e pode realizar um novo login. No momento a função está inativa e ao interagir com ela, é realizado apenas um refresh na página. |
+|       <img alt="Editar Perfil / Alterar Sessão" title="#Editar Perfil / Alterar Sessão" src="./images_git/account.png" width="700px"/>       |
+
 
 ## 🛠 Tecnologias
 
